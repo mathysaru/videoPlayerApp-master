@@ -1,0 +1,19 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "title": "video 1",
+      "link": "video1.mp4"
+    },
+    {
+      "id": "2",
+      "title": "video 2",
+      "link": "video2.mp4"
+    },
+    {
+      "id": "3",
+      "title": "video 3",
+      "link": "video3.mp4"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+h1 {
+  background-color: aqua;
+  text-align: center;
+}
+body {
+  background-color: aquamarine;
+}
+
+div .fluxContainer {
+  display: flex;
+  flex-wrap: nowrap;
+  background-color: #f1f1f1;
+  width: 500px;
+  margin: 10px;
+
+  text-align: center;
+  font-size: 20px;
+  padding-top: 10px;
+  padding-left: 40px;
+}
+
+.videoDiv {
+  color: blue;
+  width: auto;
+  height: 300px;
+  margin: 10px;
+  text-align: center;
+  background-color: #000000;
+}
+
+.btnstyle {
+  width: 50px;
+  height: 30px;
+  color: red;
+  margin: 5px;
+  margin-left: 300px;
+}
+
+.containerFlux {
+  display: flex;
+  height: 500px;
+  width: 500px;
+  column-count: 2;
+}
