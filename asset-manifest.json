@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/videoPlayerApp-master/static/css/main.0c42253c.css",
+    "main.js": "/videoPlayerApp-master/static/js/main.03e2e76f.js",
+    "static/js/787.abbda0da.chunk.js": "/videoPlayerApp-master/static/js/787.abbda0da.chunk.js",
+    "index.html": "/videoPlayerApp-master/index.html",
+    "main.0c42253c.css.map": "/videoPlayerApp-master/static/css/main.0c42253c.css.map",
+    "main.03e2e76f.js.map": "/videoPlayerApp-master/static/js/main.03e2e76f.js.map",
+    "787.abbda0da.chunk.js.map": "/videoPlayerApp-master/static/js/787.abbda0da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c42253c.css",
+    "static/js/main.03e2e76f.js"
+  ]
+}
